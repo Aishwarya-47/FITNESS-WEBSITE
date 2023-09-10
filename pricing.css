@@ -1,0 +1,26 @@
+body{
+    padding:0px ;
+    background-color: black;
+    background-image: url('https://img.freepik.com/premium-photo/dark-gym-with-red-light-bottom-screen_911201-3384.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    background-size: auto;
+    background-color: brown;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-weight: bold;
+    animation-delay: 0s;
+    transition:cubic-bezier(0.6, 0.04, 0.98, 0.335)
+    
+}
+div{
+    width: 400px;
+    height: 40px;
+    padding-left: 300px;
+    
+}
+
